@@ -1,10 +1,10 @@
 class Solution {
     /*
     https://leetcode.com/problems/unique-email-addresses/
-     Test:
-        ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
-        set:  testemail@leetcode.com, testemail@lee.tcode.com
-        returns 2
+    
+    time O(total content of emails) - a.k.a O(numOfEmails * string size) - string concat takes time proportional to its size
+    space O(total content of emails) - worst case: every email is different
+      
     */
     public int numUniqueEmails(String[] emails) {
         Set<String> set = new HashSet<>();

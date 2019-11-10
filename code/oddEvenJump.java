@@ -1,6 +1,12 @@
 class Solution {
     /*
         https://leetcode.com/problems/odd-even-jump/
+        
+        n: array size
+        time O(n log n) - log n comes from tree map usage, n for iteration
+        space O(n) - treemap usage + two boolean arrays for odds and evens
+        
+        dynamic programming
     */
     public int oddEvenJumps(int[] A) {
         // last index is there for sure

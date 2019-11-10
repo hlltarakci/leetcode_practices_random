@@ -1,6 +1,10 @@
 class Solution {
     /*
       https://leetcode.com/problems/fruit-into-baskets/
+      
+      n: tree size
+      time O(n)
+      space O(1)
     */
     public int totalFruit(int[] tree) {
         int max = 0;

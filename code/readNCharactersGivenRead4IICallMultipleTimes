@@ -1,0 +1,46 @@
+/**
+ * The read4 API is defined in the parent class Reader4.
+ *     int read4(char[] buf); 
+ 
+    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
+    
+    the focus is on case analysis
+    time: O(n) 
+    space: O(1) -- constant size buffers, output excluded
+    
+    case analysis
+ */
+public class Solution extends Reader4 {
+    char[] temp = new char[4];
+    int readIndex = -1, writeIndex = -1;
+    boolean eof = false;
+    /**
+     * @param buf Destination buffer
+     * @param n   Number of characters to read
+     * @return    The number of actual characters read
+     */
+    public int read(char[] buf, int n) {
+        int count = 0;
+        
+        while( n > 0 ) {
+            
+            // if there are elements in buffer, use them one by one
+            if(writeIndex >= 0 && readIndex < writeIndex) {
+                buf[count++] = temp[++readIndex];
+                n--;
+                continue;
+            }
+    
+            // buffer empty or used up, need to fill it if not eof already
+            if(eof) break;
+            
+            int readChars = read4(temp);
+            if(readChars < 4) eof = true;
+            
+            writeIndex = readChars - 1;
+            readIndex = -1;
+        }
+        
+        return count;
+    }
+}

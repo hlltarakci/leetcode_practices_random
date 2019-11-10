@@ -1,6 +1,10 @@
 class Solution {
     /*
         https://leetcode.com/problems/license-key-formatting/
+        
+        n: string length
+        time O(n)
+        space O(n) -- results in string builder
     */
     public String licenseKeyFormatting(String S, int K) {
         StringBuilder formattedLicenseKey = new StringBuilder();

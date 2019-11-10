@@ -5,6 +5,8 @@ class Solution {
       n: tree size
       time O(n)
       space O(1)
+      
+      sliding window
     */
     public int totalFruit(int[] tree) {
         int max = 0;

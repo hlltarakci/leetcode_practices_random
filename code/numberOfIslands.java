@@ -57,3 +57,46 @@ class Solution {
         queue.add(new int[] {i, j});
     }
 }
+
+
+// Approach 2
+
+class Solution {
+    /*
+        https://leetcode.com/problems/number-of-islands/
+        
+        m: num of rows
+        n: num of cols
+        time: O(mn) -- all entries are visited
+        space: O(mn) -- dfs recurses..
+            worst case is everywhere is land and dfs recurses them all at once
+            using mn space
+        
+        DFS
+    */
+    public int numIslands(char[][] grid) {
+        int count = 0;
+        for(int i=0; i<grid.length; i++) {
+            for(int j=0; j<grid[0].length; j++) {
+                if(grid[i][j] == '1') {
+                    count++;
+                    turnToWaterDFS(grid, i, j);
+                }
+            }
+        }
+        
+        return count;
+    }
+    
+    private void turnToWaterDFS(char[][] grid, int i, int j) {
+        if(i >= 0 && i < grid.length && j >= 0 && j < grid[0].length &&
+            grid[i][j] == '1') {
+            grid[i][j] = '0';
+            
+            turnToWaterDFS(grid, i-1, j);
+            turnToWaterDFS(grid, i+1, j);
+            turnToWaterDFS(grid, i, j-1);
+            turnToWaterDFS(grid, i, j+1);
+        }
+    }
+}

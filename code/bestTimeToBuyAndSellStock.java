@@ -1,5 +1,6 @@
 class Solution {
     /**
+        https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
         n: num of prices
         time: O(n)
         space: O(1)

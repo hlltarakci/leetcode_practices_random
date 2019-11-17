@@ -9,6 +9,9 @@ class Solution {
         time complexity: O(3^n) ?
         space complexity: O(n) -- recusion 
         
+        a simple optimization is using a memo table for index-jump size pair-- 
+        this will reduce time complexity to O(n^3) 
+        space complexity will be increased to O(n^2) because of the memo table
     */
     public boolean canCross(int[] stones) {
         return backtrack(stones, 0, 0);

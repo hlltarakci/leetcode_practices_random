@@ -9,6 +9,11 @@ class Solution {
         
         observation: not necessary to check for cells
         that are already follower of a sequence
+        
+        m: num of rows
+        n: num of cols
+        time: O(4^(m+n)) -- ? letcode says O(2^(m+n))
+        space: O(mn) -- depth of recursion could go up to that in worst case + hashset usage
     */
     public int longestIncreasingPath(int[][] matrix) {
         int longestPathLength = 0;

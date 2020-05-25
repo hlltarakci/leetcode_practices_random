@@ -12,7 +12,7 @@
 - https://leetcode.com/problems/diagonal-traverse-ii/
 - https://leetcode.com/problems/tag-validator/
 - https://leetcode.com/problems/search-a-2d-matrix/
-- https://leetcode.com/problems/search-a-2d-matrix-ii/
+- [x] https://leetcode.com/problems/search-a-2d-matrix-ii/
 - https://leetcode.com/problems/random-pick-index/
 - https://leetcode.com/problems/maximum-swap/
 - https://leetcode.com/problems/sparse-matrix-multiplication/

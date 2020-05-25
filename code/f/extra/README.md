@@ -1,6 +1,5 @@
 - [x] https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 - [x] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
-- https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations
 - https://leetcode.com/problems/next-greater-node-in-linked-list/
 - https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 - https://leetcode.com/problems/koko-eating-bananas/
@@ -12,7 +11,6 @@
 - https://leetcode.com/problems/diagonal-traverse/
 - https://leetcode.com/problems/diagonal-traverse-ii/
 - https://leetcode.com/problems/tag-validator/
-- https://medium.com/@sumukhballal/leftmost-column-with-at-least-a-one-problem-leetcode-57361bb66bf6
 - https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/search-a-2d-matrix-ii/
 - https://leetcode.com/problems/random-pick-index/
@@ -21,3 +19,5 @@
 - https://leetcode.com/problems/binary-tree-right-side-view/
 - https://leetcode.com/problems/restore-ip-addresses/
 - https://leetcode.com/problems/group-shifted-strings/
+- https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations
+- https://medium.com/@sumukhballal/leftmost-column-with-at-least-a-one-problem-leetcode-57361bb66bf6

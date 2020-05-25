@@ -18,6 +18,6 @@
 - https://leetcode.com/problems/sparse-matrix-multiplication/
 - https://leetcode.com/problems/binary-tree-right-side-view/
 - https://leetcode.com/problems/restore-ip-addresses/
-- https://leetcode.com/problems/group-shifted-strings/
+- [x] https://leetcode.com/problems/group-shifted-strings/
 - https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations
 - https://medium.com/@sumukhballal/leftmost-column-with-at-least-a-one-problem-leetcode-57361bb66bf6

@@ -5,7 +5,7 @@
 - [x] https://leetcode.com/problems/koko-eating-bananas/
 - https://leetcode.com/problems/count-different-palindromic-subsequences/
 - https://leetcode.com/problems/task-scheduler/
-- https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+- [x] https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 - https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/target-sum/
 - [x] https://leetcode.com/problems/diagonal-traverse/

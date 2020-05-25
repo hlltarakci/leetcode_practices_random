@@ -1,6 +1,6 @@
 - [x] https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 - [x] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
-- https://leetcode.com/problems/next-greater-node-in-linked-list/
+- [x] https://leetcode.com/problems/next-greater-node-in-linked-list/
 - https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 - https://leetcode.com/problems/koko-eating-bananas/
 - https://leetcode.com/problems/count-different-palindromic-subsequences/

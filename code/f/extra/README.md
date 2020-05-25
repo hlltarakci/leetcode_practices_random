@@ -1,5 +1,5 @@
 - [x] https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
-- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+- [x] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 - https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations
 - https://leetcode.com/problems/next-greater-node-in-linked-list/
 - https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/

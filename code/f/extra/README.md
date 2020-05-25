@@ -8,7 +8,7 @@
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 - https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/target-sum/
-- https://leetcode.com/problems/diagonal-traverse/
+- [x] https://leetcode.com/problems/diagonal-traverse/
 - https://leetcode.com/problems/diagonal-traverse-ii/
 - https://leetcode.com/problems/tag-validator/
 - https://leetcode.com/problems/search-a-2d-matrix/

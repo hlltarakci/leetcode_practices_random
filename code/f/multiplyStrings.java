@@ -3,8 +3,8 @@
 class Solution {
     /*
         n, m: str lens
-        time: O(max(n,m)) ?
-        space: O(max(n,m)) ?
+        time: O(m n) ?
+        space: O(m n) ?
     */
     public String multiply(String num1, String num2) {
         if(num1.equals("0") || num2.equals("0")) return "0";

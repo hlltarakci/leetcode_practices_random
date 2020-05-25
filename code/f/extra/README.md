@@ -16,7 +16,7 @@
 - https://leetcode.com/problems/random-pick-index/
 - https://leetcode.com/problems/maximum-swap/
 - https://leetcode.com/problems/sparse-matrix-multiplication/
-- https://leetcode.com/problems/binary-tree-right-side-view/
+- [x] https://leetcode.com/problems/binary-tree-right-side-view/
 - https://leetcode.com/problems/restore-ip-addresses/
 - [x] https://leetcode.com/problems/group-shifted-strings/
 - https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations

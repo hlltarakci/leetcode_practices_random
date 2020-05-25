@@ -2,7 +2,7 @@
 - [x] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 - [x] https://leetcode.com/problems/next-greater-node-in-linked-list/
 - https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
-- https://leetcode.com/problems/koko-eating-bananas/
+- [x] https://leetcode.com/problems/koko-eating-bananas/
 - https://leetcode.com/problems/count-different-palindromic-subsequences/
 - https://leetcode.com/problems/task-scheduler/
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/

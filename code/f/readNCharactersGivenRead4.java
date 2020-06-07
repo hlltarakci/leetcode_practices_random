@@ -11,17 +11,15 @@ public class Solution extends Reader4 {
      * @param n   Number of characters to read
      * @return    The number of actual characters read
      */
-    public int read(char[] buf, int n) {
+     public int read(char[] buf, int n) {
         char[] temp = new char[4];
         
         int actualRead = 0;
-        int readIndex = 0;
         
         while(actualRead < n) {
             int count = Math.min(read4(temp), n-actualRead);
             for(int i=0; i<count; i++) {
-                buf[readIndex++] = temp[i];
-                actualRead++;
+                buf[actualRead++] = temp[i];
             }
             
             if(count < 4) break;

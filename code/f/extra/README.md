@@ -41,14 +41,13 @@
 - [x] https://leetcode.com/problems/validate-binary-search-tree/ 
 - [x] https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
 - [x] https://leetcode.com/problems/merge-sorted-array
+- [x] https://leetcode.com/problems/sudoku-solver/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/range-sum-of-bst/
 - https://leetcode.com/problems/custom-sort-string
 - https://leetcode.com/problems/maximum-subarray
 - https://leetcode.com/problems/simplify-path/
 - https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
-- https://leetcode.com/problems/sudoku-solver/
-- https://leetcode.com/problems/remove-invalid-parentheses/
 - https://leetcode.com/problems/subarray-sum-equals-k/
 - https://leetcode.com/problems/palindrome-permutation
 - https://leetcode.com/problems/max-consecutive-ones-iii
@@ -62,8 +61,7 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
 - https://leetcode.com/problems/maximum-subarray
-- https://leetcode.com/problems/kth-largest-element-in-an-array/ 
-- https://leetcode.com/problems/remove-invalid-parentheses/
+- https://leetcode.com/problems/kth-largest-element-in-an-array/
 - https://leetcode.com/problems/partition-equal-subset-sum/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - https://leetcode.com/problems/k-closest-points-to-origin/

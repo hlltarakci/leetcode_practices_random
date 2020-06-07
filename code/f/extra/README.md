@@ -33,6 +33,14 @@
 - [x] https://leetcode.com/problems/binary-tree-maximum-path-sum
 - [x] https://leetcode.com/problems/merge-intervals
 - [x] https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [x] https://leetcode.com/problems/valid-parentheses
+- [x] https://leetcode.com/problems/move-zeroes
+- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- [x] https://leetcode.com/problems/add-and-search-word-data-structure-design
+- [x] https://leetcode.com/problems/validate-binary-search-tree/ 
+- [x] https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
+- [x] https://leetcode.com/problems/merge-sorted-array
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/range-sum-of-bst/
 - https://leetcode.com/problems/custom-sort-string
@@ -42,13 +50,8 @@
 - https://leetcode.com/problems/sudoku-solver/
 - https://leetcode.com/problems/remove-invalid-parentheses/
 - https://leetcode.com/problems/subarray-sum-equals-k/
-- https://leetcode.com/problems/binary-tree-level-order-traversal/
-- https://leetcode.com/problems/maximum-subarray
-- https://leetcode.com/problems/valid-parentheses
-- https://leetcode.com/problems/move-zeroes
 - https://leetcode.com/problems/palindrome-permutation
 - https://leetcode.com/problems/max-consecutive-ones-iii
-- https://leetcode.com/problems/range-sum-of-bst
 - https://leetcode.com/problems/fraction-to-recurring-decimal/
 - https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
@@ -56,16 +59,10 @@
 - https://leetcode.com/problems/exclusive-time-of-functions
 - https://leetcode.com/problems/add-strings
 - https://leetcode.com/problems/valid-palindrome-ii
-- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
-- [x] https://leetcode.com/problems/add-and-search-word-data-structure-design
-- https://leetcode.com/problems/merge-sorted-array
 - https://leetcode.com/problems/maximum-subarray
 - https://leetcode.com/problems/kth-largest-element-in-an-array/ 
-- https://leetcode.com/problems/validate-binary-search-tree/ 
-- https://leetcode.com/problems/valid-palindrome-ii/ 
-- https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
 - https://leetcode.com/problems/remove-invalid-parentheses/
 - https://leetcode.com/problems/partition-equal-subset-sum/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/

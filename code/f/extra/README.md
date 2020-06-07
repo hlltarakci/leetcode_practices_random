@@ -49,19 +49,16 @@
 - https://leetcode.com/problems/palindrome-permutation
 - https://leetcode.com/problems/max-consecutive-ones-iii
 - https://leetcode.com/problems/range-sum-of-bst
-- https://leetcode.com/problems/add-binary/
+- [x] https://leetcode.com/problems/add-binary/
 - https://leetcode.com/problems/fraction-to-recurring-decimal/
 - https://leetcode.com/problems/product-of-array-except-self/
-- https://leetcode.com/problems/verifying-an-alien-dictionary/
-- https://leetcode.com/problems/task-scheduler/
 - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
-- https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-- https://leetcode.com/problems/merge-intervals
+- [x] https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- [x] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - https://leetcode.com/problems/valid-number
 - https://leetcode.com/problems/exclusive-time-of-functions
 - https://leetcode.com/problems/add-strings
-- https://leetcode.com/problems/valid-palindrome
+- [x] https://leetcode.com/problems/valid-palindrome
 - https://leetcode.com/problems/valid-palindrome-ii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
@@ -73,19 +70,17 @@
 - https://leetcode.com/problems/validate-binary-search-tree/ 
 - https://leetcode.com/problems/valid-palindrome-ii/ 
 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
-- https://leetcode.com/problems/simplify-path/ 
-- https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ 
 - https://leetcode.com/problems/remove-invalid-parentheses/
 - https://leetcode.com/problems/partition-equal-subset-sum/
-- https://leetcode.com/problems/powx-n 
-- https://leetcode.com/problems/subarray-sum-equals-k
-- https://leetcode.com/problems/find-all-anagrams-in-a-string
-- https://leetcode.com/problems/is-graph-bipartite 
+- [x] https://leetcode.com/problems/powx-n 
+- [x] https://leetcode.com/problems/subarray-sum-equals-k
+- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string
+- [x] https://leetcode.com/problems/is-graph-bipartite 
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - https://leetcode.com/problems/k-closest-points-to-origin/
 - https://leetcode.com/problems/random-pick-with-blacklist/
 - https://leetcode.com/problems/course-schedule/
-- https://leetcode.com/problems/interval-list-intersections/
+- [x] https://leetcode.com/problems/interval-list-intersections/
 - https://www.geeksforgeeks.org/find-index-maximum-occurring-element-equal-probability/
 - https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/
 - https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations

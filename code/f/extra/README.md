@@ -42,6 +42,7 @@
 - [x] https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
 - [x] https://leetcode.com/problems/merge-sorted-array
 - [x] https://leetcode.com/problems/sudoku-solver/
+- [x] https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/range-sum-of-bst/
 - https://leetcode.com/problems/custom-sort-string
@@ -52,7 +53,6 @@
 - https://leetcode.com/problems/palindrome-permutation
 - https://leetcode.com/problems/max-consecutive-ones-iii
 - https://leetcode.com/problems/fraction-to-recurring-decimal/
-- https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 - https://leetcode.com/problems/valid-number
 - https://leetcode.com/problems/exclusive-time-of-functions

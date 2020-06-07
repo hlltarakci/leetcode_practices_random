@@ -1,14 +1,15 @@
 - https://leetcode.com/company/facebook/ --> general source 
+- https://leetcode.com/problemset/top-facebook-questions/ --> general source of 50 questions
 - [x] https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 - [x] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 - [x] https://leetcode.com/problems/next-greater-node-in-linked-list/
-- https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+- [x] https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 - [x] https://leetcode.com/problems/koko-eating-bananas/
 - https://leetcode.com/problems/count-different-palindromic-subsequences/
 - https://leetcode.com/problems/task-scheduler/
 - [x] https://leetcode.com/problems/find-largest-value-in-each-tree-row/
-- https://leetcode.com/problems/combination-sum/
-- https://leetcode.com/problems/target-sum/
+- [x] https://leetcode.com/problems/combination-sum/
+- [x] https://leetcode.com/problems/target-sum/
 - [x] https://leetcode.com/problems/diagonal-traverse/
 - https://leetcode.com/problems/diagonal-traverse-ii/
 - https://leetcode.com/problems/tag-validator/
@@ -22,10 +23,10 @@
 - [x] https://leetcode.com/problems/group-shifted-strings/
 - [x] https://leetcode.com/problems/trapping-rain-water/
 - https://leetcode.com/problems/range-sum-of-bst/
-- https://leetcode.com/problems/insert-delete-getrandom-o1/
-- https://leetcode.com/problems/continuous-subarray-sum/
-- https://leetcode.com/problems/verifying-an-alien-dictionary/
-- https://leetcode.com/problems/alien-dictionary/
+- [x] https://leetcode.com/problems/insert-delete-getrandom-o1/
+- [x] https://leetcode.com/problems/continuous-subarray-sum/
+- [x] https://leetcode.com/problems/verifying-an-alien-dictionary/
+- [x] https://leetcode.com/problems/alien-dictionary/
 - https://leetcode.com/problems/binary-tree-paths
 - https://leetcode.com/problems/minimum-window-substring
 - https://leetcode.com/problems/remove-invalid-parentheses

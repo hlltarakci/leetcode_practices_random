@@ -27,15 +27,15 @@
 - [x] https://leetcode.com/problems/continuous-subarray-sum/
 - [x] https://leetcode.com/problems/verifying-an-alien-dictionary/
 - [x] https://leetcode.com/problems/alien-dictionary/
-- https://leetcode.com/problems/binary-tree-paths
-- https://leetcode.com/problems/minimum-window-substring
-- https://leetcode.com/problems/remove-invalid-parentheses
-- https://leetcode.com/problems/read-n-characters-given-read4 
+- [x] https://leetcode.com/problems/binary-tree-paths
+- [x] https://leetcode.com/problems/minimum-window-substring
+- [x] https://leetcode.com/problems/remove-invalid-parentheses
+- [x] https://leetcode.com/problems/read-n-characters-given-read4 
 - https://leetcode.com/problems/custom-sort-string
 - https://leetcode.com/problems/maximum-subarray
-- https://leetcode.com/problems/binary-tree-maximum-path-sum
-- https://leetcode.com/problems/merge-intervals
-- https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] https://leetcode.com/problems/binary-tree-maximum-path-sum
+- [x] https://leetcode.com/problems/merge-intervals
+- [x] https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/simplify-path/
 - https://leetcode.com/problems/longest-increasing-path-in-a-matrix/

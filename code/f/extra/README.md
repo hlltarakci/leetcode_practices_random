@@ -5,24 +5,14 @@
 - [x] https://leetcode.com/problems/next-greater-node-in-linked-list/
 - [x] https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 - [x] https://leetcode.com/problems/koko-eating-bananas/
-- https://leetcode.com/problems/count-different-palindromic-subsequences/
-- https://leetcode.com/problems/task-scheduler/
 - [x] https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 - [x] https://leetcode.com/problems/combination-sum/
 - [x] https://leetcode.com/problems/target-sum/
 - [x] https://leetcode.com/problems/diagonal-traverse/
-- https://leetcode.com/problems/diagonal-traverse-ii/
-- https://leetcode.com/problems/tag-validator/
-- https://leetcode.com/problems/search-a-2d-matrix/
 - [x] https://leetcode.com/problems/search-a-2d-matrix-ii/
-- https://leetcode.com/problems/random-pick-index/
-- https://leetcode.com/problems/maximum-swap/
-- https://leetcode.com/problems/sparse-matrix-multiplication/
 - [x] https://leetcode.com/problems/binary-tree-right-side-view/
-- https://leetcode.com/problems/restore-ip-addresses/
 - [x] https://leetcode.com/problems/group-shifted-strings/
 - [x] https://leetcode.com/problems/trapping-rain-water/
-- https://leetcode.com/problems/range-sum-of-bst/
 - [x] https://leetcode.com/problems/insert-delete-getrandom-o1/
 - [x] https://leetcode.com/problems/continuous-subarray-sum/
 - [x] https://leetcode.com/problems/verifying-an-alien-dictionary/
@@ -31,12 +21,22 @@
 - [x] https://leetcode.com/problems/minimum-window-substring
 - [x] https://leetcode.com/problems/remove-invalid-parentheses
 - [x] https://leetcode.com/problems/read-n-characters-given-read4 
-- https://leetcode.com/problems/custom-sort-string
-- https://leetcode.com/problems/maximum-subarray
+- [x] https://leetcode.com/problems/add-binary/
+- [x] https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- [x] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+- [x] https://leetcode.com/problems/valid-palindrome
+- [x] https://leetcode.com/problems/powx-n 
+- [x] https://leetcode.com/problems/subarray-sum-equals-k
+- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string
+- [x] https://leetcode.com/problems/is-graph-bipartite 
+- [x] https://leetcode.com/problems/interval-list-intersections/
 - [x] https://leetcode.com/problems/binary-tree-maximum-path-sum
 - [x] https://leetcode.com/problems/merge-intervals
 - [x] https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- https://leetcode.com/problems/range-sum-of-bst/
+- https://leetcode.com/problems/custom-sort-string
+- https://leetcode.com/problems/maximum-subarray
 - https://leetcode.com/problems/simplify-path/
 - https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 - https://leetcode.com/problems/sudoku-solver/
@@ -49,21 +49,17 @@
 - https://leetcode.com/problems/palindrome-permutation
 - https://leetcode.com/problems/max-consecutive-ones-iii
 - https://leetcode.com/problems/range-sum-of-bst
-- [x] https://leetcode.com/problems/add-binary/
 - https://leetcode.com/problems/fraction-to-recurring-decimal/
 - https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
-- [x] https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- [x] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - https://leetcode.com/problems/valid-number
 - https://leetcode.com/problems/exclusive-time-of-functions
 - https://leetcode.com/problems/add-strings
-- [x] https://leetcode.com/problems/valid-palindrome
 - https://leetcode.com/problems/valid-palindrome-ii
-- https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
-- https://leetcode.com/problems/add-and-search-word-data-structure-design
+- [x] https://leetcode.com/problems/add-and-search-word-data-structure-design
 - https://leetcode.com/problems/merge-sorted-array
 - https://leetcode.com/problems/maximum-subarray
 - https://leetcode.com/problems/kth-largest-element-in-an-array/ 
@@ -72,15 +68,19 @@
 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ 
 - https://leetcode.com/problems/remove-invalid-parentheses/
 - https://leetcode.com/problems/partition-equal-subset-sum/
-- [x] https://leetcode.com/problems/powx-n 
-- [x] https://leetcode.com/problems/subarray-sum-equals-k
-- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string
-- [x] https://leetcode.com/problems/is-graph-bipartite 
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - https://leetcode.com/problems/k-closest-points-to-origin/
 - https://leetcode.com/problems/random-pick-with-blacklist/
 - https://leetcode.com/problems/course-schedule/
-- [x] https://leetcode.com/problems/interval-list-intersections/
+- https://leetcode.com/problems/count-different-palindromic-subsequences/
+- https://leetcode.com/problems/task-scheduler/
+- https://leetcode.com/problems/random-pick-index/
+- https://leetcode.com/problems/maximum-swap/
+- https://leetcode.com/problems/sparse-matrix-multiplication/
+- https://leetcode.com/problems/restore-ip-addresses/
+- https://leetcode.com/problems/diagonal-traverse-ii/
+- https://leetcode.com/problems/tag-validator/
+- https://leetcode.com/problems/search-a-2d-matrix/
 - https://www.geeksforgeeks.org/find-index-maximum-occurring-element-equal-probability/
 - https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/
 - https://leetcode.com/discuss/interview-question/289338/Facebook-or-Onsite-or-Spaced-permutations

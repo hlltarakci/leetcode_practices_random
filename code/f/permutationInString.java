@@ -15,22 +15,14 @@ class Solution {
         for(char ch: s1.toCharArray()) refMap[ch-'a']++;
         for(int i=0; i<s1.length(); i++) map[s2.charAt(i)-'a']++;
         
-        if(isMatch(refMap, Arrays.copyOf(map, map.length))) return true;
+        if(Arrays.equals(refMap, map)) return true;
         
         for(int i=s1.length(); i< s2.length(); i++) {
             map[s2.charAt(i-s1.length()) - 'a']--;
             map[s2.charAt(i) - 'a']++;
-            if(isMatch(refMap, Arrays.copyOf(map, map.length))) return true;
+            if(Arrays.equals(refMap, map)) return true;
         }
         
         return false;
-    }
-    
-    private boolean isMatch(int[] refMap, int[] map) {
-        for(int i=0; i<refMap.length; i++) {
-            if(refMap[i] != map[i]) return false;
-        }
-        
-        return true;
     }
 }

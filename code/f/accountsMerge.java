@@ -14,13 +14,11 @@ class Solution {
             
             List<Set<String>> sets = map.get(key);
             
-            boolean isBelongToSet = false;
             List<Set<String>> belongingSets = new ArrayList<>();
             for(int i=1; i<account.size(); i++) {
                 for(Set<String> set: sets) {
                     if(set.contains(account.get(i))) {
                         belongingSets.add(set);
-                        isBelongToSet = true;
                         break;
                     }
                 }
@@ -32,9 +30,7 @@ class Solution {
                 for(Set<String> set: belongingSets) combinedSet.addAll(set);
                 for(int k=1; k<account.size(); k++) combinedSet.add(account.get(k));
                 sets.add(combinedSet);
-            }
-            
-            if(!isBelongToSet) addToMap(account, map);
+            } else addToMap(account, map);
         }
         
         return convert(map);
